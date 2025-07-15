@@ -97,5 +97,5 @@ This dashboard can be leveraged to:
 
 •	Make informed hiring or training decisions
 
-## Demos/Screenshot, How the Dashboard looks like ![Alt Txt]()
+## Demos/Screenshot, How the Dashboard looks like ![Alt Txt](https://github.com/s-barman/Call-Center-Performance-Dashboard/blob/main/Screenshot_CallCenter_Dashboard.png)
 
